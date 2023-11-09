@@ -1,0 +1,6 @@
+name: Parkour
+version: '${project.version}'
+main: net.dreaght.parkour.Parkour
+commands:
+  pc:
+    description: Open the parkour menu
