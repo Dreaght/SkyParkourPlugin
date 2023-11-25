@@ -5,4 +5,6 @@ Minecraft Parkour Plugin
 * Blocks break automatically
 
 
-![Showcase](https://github.com/Dreaght/SkyParkourPlugin/assets/111290888/c7099d34-4f7e-473d-b782-6cb7850e1793) ![Parkour Menu](https://github.com/Dreaght/SkyParkourPlugin/assets/111290888/60383203-4a01-4a08-9ac5-99ec87ae8ed5)
+
+![Showcase](https://github.com/Dreaght/SkyParkourPlugin/assets/111290888/c7099d34-4f7e-473d-b782-6cb7850e1793)![Untitled video - Made with Clipchamp (1)](https://github.com/Dreaght/SkyParkourPlugin/assets/111290888/8a7ad28f-d2d3-4c09-9283-5c9c93c327a5)
+![Parkour Menu](https://github.com/Dreaght/SkyParkourPlugin/assets/111290888/60383203-4a01-4a08-9ac5-99ec87ae8ed5)
